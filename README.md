@@ -7,6 +7,7 @@ Projeto desenvolvido através do Ignite Lab da RocketSeat.
 ## Tecnologias
 
 - React Native com Expo (Bare Template).
+- Biblioteca de componentes Native Base.
 - TypeScript.
 - Firebase.
 
